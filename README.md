@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nishat-tasnim-5424b6250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishat tasnim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tasnim_isha_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasnim isha" height="30" width="40" /></a>
-<a href="https://dribbble.com/nishat1215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nishat tasnim" height="30" width="40" /></a>
+<a href="https://www.dribbble.com/nishat1215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nishat tasnim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
