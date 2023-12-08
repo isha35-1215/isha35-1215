@@ -1,3 +1,4 @@
+![logo](https://github.com/isha35-1215/isha35-1215/blob/main/Blue%20%26%20white%20minimal%20linkedin%20profile%20cover%20image.png)
 <h1 align="center">Hi 👋, I'm Nishat</h1>
 <h3 align="center">A passionate MERN stack developer on a mission to craft immersive and scalable web experiences.</h3>
 
