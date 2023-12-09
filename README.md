@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nishat-tasnim-5424b6250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishat tasnim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tasnim_isha_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasnim isha" height="30" width="40" /></a>
-<a href="https://dribbble.com/nishat1215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nishat tasnim" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tasnim.isha.nishat?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishat tasnim" height="30" width="40" /></a>
 </p><br>
 
 <br><h2 align="left">Technical Skills and Expertise:</h2><br>
