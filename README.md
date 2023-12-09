@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Nqs3UB8rwHJf3F25WvJizVlNkiMVgtWJ?usp=sharing](https://drive.google.com/drive/folders/1Nqs3UB8rwHJf3F25WvJizVlNkiMVgtWJ?usp=sharing)
 
-- ⚡ Fun fact **I enjoy travelling, listening music and gardening.**
+- ⚡ Fun fact **I enjoy turning caffeine into code and pixels into awesome user experiences.**
 
 <br><h2 align="left">Social Links:</h2>
 <p align="center">
